@@ -1,4 +1,5 @@
-Meu nome é Náiron, nascido no inverno de 93, no interior de São Paulo - Brasil.
+Prazer, Náiron. 
+Nascido no inverno de 93, no interior de São Paulo - Brasil.
 Sou formado em Informática Biomédica pela Universidade de São Paulo e desde 2020 atuo como desenvolvedor.
 Meu maior conhecimento é na linguagem Java e seus respectivos frameworks e bibliotecas.
 Também tenho grande conhecimento em SQL, tendo já trabalhado com bancos da Oracle, MySQL e PostGres.
